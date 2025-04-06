@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "Transaction",
+  "namespace": "com.example.parquet.avro",
+  "fields": [
+    { "name": "transactionId", "type": "string" },
+    { "name": "amount", "type": "double" },
+    { "name": "currency", "type": "string" },
+    { "name": "timestamp", "type": "string" },
+    { "name": "status", "type": "string" }
+  ]
+}

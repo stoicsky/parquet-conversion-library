@@ -1,0 +1,16 @@
+[
+  {
+    "transactionId": "txn001",
+    "amount": 999.99,
+    "currency": "USD",
+    "timestamp": "2025-04-06T10:00:00Z",
+    "status": "SUCCESS"
+  },
+  {
+    "transactionId": "txn002",
+    "amount": 123.45,
+    "currency": "EUR",
+    "timestamp": "2025-04-06T11:00:00Z",
+    "status": "PENDING"
+  }
+]
